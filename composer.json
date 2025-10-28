@@ -11,7 +11,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8",
-        "egulias/email-validator": "^3.2"
+        "egulias/email-validator": "^3.2|^4.0"
     },
     "require-dev": {
         "pestphp/pest": "^1.0",
